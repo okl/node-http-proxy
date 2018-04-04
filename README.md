@@ -5,6 +5,10 @@
 node-http-proxy
 =======
 
+### Fork
+* By Bed Bath & Beyond
+* Adds the feature to allow nonexistent paths to fall back to index.html file or similar
+
 <p align="left">
  <a href="https://travis-ci.org/nodejitsu/node-http-proxy" target="_blank">
   <img src="https://travis-ci.org/nodejitsu/node-http-proxy.png"/></a>&nbsp;&nbsp;
